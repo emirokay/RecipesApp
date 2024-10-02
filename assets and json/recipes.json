@@ -1,0 +1,196 @@
+{
+  "recipes": [
+	{
+	  "id": 1,
+	  "name": "Spaghetti Bolognese",
+	  "image": "spaghetti_bolognese",
+	  "servings": 4,
+	  "prepTime": "15 minutes",
+	  "cookTime": "1 hour",
+	  "difficulty": "Medium",
+	  "ingredients": [
+		{ "name": "Spaghetti", "quantity": "400g" },
+		{ "name": "Ground beef", "quantity": "500g" },
+		{ "name": "Onion", "quantity": "1, chopped" },
+		{ "name": "Garlic", "quantity": "2 cloves, minced" },
+		{ "name": "Tomato paste", "quantity": "2 tbsp" },
+		{ "name": "Crushed tomatoes", "quantity": "400g" },
+		{ "name": "Olive oil", "quantity": "2 tbsp" },
+		{ "name": "Salt", "quantity": "to taste" },
+		{ "name": "Pepper", "quantity": "to taste" }
+	  ],
+	  "instructions": "Heat olive oil in a large pan over medium heat. Add onion and garlic, sauté until softened. Add ground beef and cook until browned. Stir in tomato paste and cook for 2 minutes. Add crushed tomatoes, salt, and pepper. Simmer for 45 minutes, stirring occasionally. Cook spaghetti according to package instructions. Drain. Serve Bolognese sauce over spaghetti and enjoy."
+	},
+	{
+	  "id": 2,
+	  "name": "Chicken Caesar Salad",
+	  "image": "chicken_caesar_salad",
+	  "servings": 2,
+	  "prepTime": "10 minutes",
+	  "cookTime": "15 minutes",
+	  "difficulty": "Easy",
+	  "ingredients": [
+		{ "name": "Chicken breast", "quantity": "2, grilled" },
+		{ "name": "Romaine lettuce", "quantity": "1 head, chopped" },
+		{ "name": "Parmesan cheese", "quantity": "1/4 cup, grated" },
+		{ "name": "Croutons", "quantity": "1/2 cup" },
+		{ "name": "Caesar dressing", "quantity": "1/4 cup" }
+	  ],
+	  "instructions": "Grill chicken breasts until cooked through, about 7 minutes per side. Let rest, then slice. In a large bowl, combine chopped romaine, croutons, and Parmesan cheese. Add sliced chicken on top. Drizzle with Caesar dressing and toss to coat. Serve immediately."
+	},
+	{
+	  "id": 3,
+	  "name": "Beef Tacos",
+	  "image": "beef_tacos",
+	  "servings": 4,
+	  "prepTime": "15 minutes",
+	  "cookTime": "10 minutes",
+	  "difficulty": "Easy",
+	  "ingredients": [
+		{ "name": "Ground beef", "quantity": "500g" },
+		{ "name": "Taco seasoning", "quantity": "2 tbsp" },
+		{ "name": "Taco shells", "quantity": "8" },
+		{ "name": "Lettuce", "quantity": "1 cup, shredded" },
+		{ "name": "Cheddar cheese", "quantity": "1/2 cup, shredded" },
+		{ "name": "Salsa", "quantity": "1/2 cup" },
+		{ "name": "Sour cream", "quantity": "1/4 cup" }
+	  ],
+	  "instructions": "Cook ground beef in a skillet over medium heat, breaking it up as it cooks. Add taco seasoning and cook for 5 minutes. Warm taco shells according to package instructions. Fill each shell with beef, lettuce, cheese, salsa, and sour cream. Serve immediately."
+	},
+	{
+	  "id": 4,
+	  "name": "Vegetable Stir Fry",
+	  "image": "vegetable_stir_fry",
+	  "servings": 4,
+	  "prepTime": "10 minutes",
+	  "cookTime": "10 minutes",
+	  "difficulty": "Easy",
+	  "ingredients": [
+		{ "name": "Broccoli", "quantity": "1 cup, chopped" },
+		{ "name": "Carrots", "quantity": "1 cup, sliced" },
+		{ "name": "Bell peppers", "quantity": "1 cup, sliced" },
+		{ "name": "Soy sauce", "quantity": "1/4 cup" },
+		{ "name": "Garlic", "quantity": "2 cloves, minced" },
+		{ "name": "Sesame oil", "quantity": "2 tbsp" },
+		{ "name": "Ginger", "quantity": "1 tsp, grated" }
+	  ],
+	  "instructions": "Heat sesame oil in a large pan over medium-high heat. Add garlic and ginger, sauté for 1 minute. Add broccoli, carrots, and bell peppers, stir fry for 5-7 minutes until tender. Stir in soy sauce and cook for another 2 minutes. Serve over rice or noodles."
+	},
+	{
+	  "id": 5,
+	  "name": "Pancakes",
+	  "image": "pancakes",
+	  "servings": 4,
+	  "prepTime": "5 minutes",
+	  "cookTime": "10 minutes",
+	  "difficulty": "Easy",
+	  "ingredients": [
+		{ "name": "All-purpose flour", "quantity": "1 cup" },
+		{ "name": "Milk", "quantity": "1 cup" },
+		{ "name": "Egg", "quantity": "1" },
+		{ "name": "Baking powder", "quantity": "2 tsp" },
+		{ "name": "Sugar", "quantity": "2 tbsp" },
+		{ "name": "Salt", "quantity": "1/4 tsp" }
+	  ],
+	  "instructions": "In a bowl, whisk together flour, baking powder, sugar, and salt. In another bowl, whisk together milk and egg. Pour the wet ingredients into the dry ingredients and mix until just combined. Heat a skillet over medium heat and pour batter to form pancakes. Cook for 2-3 minutes on each side until golden. Serve with maple syrup."
+	},
+	{
+	  "id": 6,
+	  "name": "Margherita Pizza",
+	  "image": "margherita_pizza",
+	  "servings": 4,
+	  "prepTime": "15 minutes",
+	  "cookTime": "20 minutes",
+	  "difficulty": "Medium",
+	  "ingredients": [
+		{ "name": "Pizza dough", "quantity": "1" },
+		{ "name": "Tomato sauce", "quantity": "1/2 cup" },
+		{ "name": "Fresh mozzarella", "quantity": "1 cup, sliced" },
+		{ "name": "Fresh basil", "quantity": "1/4 cup" },
+		{ "name": "Olive oil", "quantity": "2 tbsp" }
+	  ],
+	  "instructions": "Preheat oven to 475°F (245°C). Roll out pizza dough on a floured surface. Spread tomato sauce evenly over the dough. Top with mozzarella slices and drizzle with olive oil. Bake for 15-20 minutes until the crust is golden. Garnish with fresh basil leaves and serve."
+	},
+	{
+	  "id": 7,
+	  "name": "Greek Salad",
+	  "image": "greek_salad",
+	  "servings": 4,
+	  "prepTime": "10 minutes",
+	  "cookTime": "0 minutes",
+	  "difficulty": "Easy",
+	  "ingredients": [
+		{ "name": "Cucumber", "quantity": "1, chopped" },
+		{ "name": "Tomato", "quantity": "2, chopped" },
+		{ "name": "Red onion", "quantity": "1/2, sliced" },
+		{ "name": "Feta cheese", "quantity": "1/2 cup, crumbled" },
+		{ "name": "Olives", "quantity": "1/4 cup" },
+		{ "name": "Olive oil", "quantity": "2 tbsp" },
+		{ "name": "Lemon juice", "quantity": "1 tbsp" }
+	  ],
+	  "instructions": "In a large bowl, combine cucumber, tomato, red onion, feta cheese, and olives. Drizzle with olive oil and lemon juice. Toss to combine and serve."
+	},
+	{
+	  "id": 8,
+	  "name": "Banana Bread",
+	  "image": "banana_bread",
+	  "servings": 8,
+	  "prepTime": "10 minutes",
+	  "cookTime": "1 hour",
+	  "difficulty": "Medium",
+	  "ingredients": [
+		{ "name": "Bananas", "quantity": "3, mashed" },
+		{ "name": "All-purpose flour", "quantity": "1 1/2 cups" },
+		{ "name": "Sugar", "quantity": "1/2 cup" },
+		{ "name": "Butter", "quantity": "1/2 cup, melted" },
+		{ "name": "Egg", "quantity": "1" },
+		{ "name": "Baking soda", "quantity": "1 tsp" },
+		{ "name": "Salt", "quantity": "1/4 tsp" }
+	  ],
+	  "instructions": "Preheat oven to 350°F (175°C). In a bowl, mix mashed bananas, melted butter, and sugar. Add the egg and mix well. Stir in baking soda and salt. Gradually add flour and mix until just combined. Pour the batter into a greased loaf pan. Bake for 1 hour or until a toothpick inserted into the center comes out clean. Let cool before slicing."
+	},
+	{
+		  "id": 9,
+		  "name": "Shrimp Scampi",
+		  "image": "shrimp_scampi",
+		  "servings": 4,
+		  "prepTime": "10 minutes",
+		  "cookTime": "15 minutes",
+		  "difficulty": "Easy",
+		  "ingredients": [
+			{ "name": "Shrimp", "quantity": "500g, peeled and deveined" },
+			{ "name": "Garlic", "quantity": "4 cloves, minced" },
+			{ "name": "Butter", "quantity": "4 tbsp" },
+			{ "name": "Olive oil", "quantity": "2 tbsp" },
+			{ "name": "Lemon juice", "quantity": "1/4 cup" },
+			{ "name": "White wine", "quantity": "1/4 cup" },
+			{ "name": "Parsley", "quantity": "2 tbsp, chopped" },
+			{ "name": "Salt", "quantity": "to taste" },
+			{ "name": "Pepper", "quantity": "to taste" },
+			{ "name": "Spaghetti", "quantity": "400g" }
+		  ],
+		  "instructions": "Cook spaghetti according to package instructions. In a large skillet, melt butter with olive oil over medium heat. Add garlic and sauté for 1-2 minutes. Add shrimp and cook until pink, about 3-4 minutes. Stir in white wine and lemon juice. Simmer for 2 minutes. Toss in cooked spaghetti and parsley. Season with salt and pepper to taste. Serve immediately."
+		},
+		{
+		  "id": 10,
+		  "name": "Chocolate Chip Cookies",
+		  "image": "chocolate_chip_cookies",
+		  "servings": 24,
+		  "prepTime": "15 minutes",
+		  "cookTime": "10 minutes",
+		  "difficulty": "Easy",
+		  "ingredients": [
+			{ "name": "All-purpose flour", "quantity": "2 1/4 cups" },
+			{ "name": "Butter", "quantity": "1 cup, softened" },
+			{ "name": "Sugar", "quantity": "3/4 cup" },
+			{ "name": "Brown sugar", "quantity": "3/4 cup" },
+			{ "name": "Vanilla extract", "quantity": "1 tsp" },
+			{ "name": "Eggs", "quantity": "2" },
+			{ "name": "Baking soda", "quantity": "1 tsp" },
+			{ "name": "Salt", "quantity": "1/2 tsp" },
+			{ "name": "Chocolate chips", "quantity": "2 cups" }
+		  ],
+		  "instructions": "Preheat oven to 350°F (175°C). In a bowl, beat together butter, sugar, and brown sugar until creamy. Add eggs and vanilla extract, mixing until smooth. In a separate bowl, combine flour, baking soda, and salt. Gradually add the dry ingredients to the wet ingredients and mix. Stir in chocolate chips. Drop rounded spoonfuls of dough onto a baking sheet. Bake for 10 minutes or until golden. Let cool on the baking sheet before transferring to a wire rack."
+		}
+  ]
+}

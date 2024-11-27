@@ -43,7 +43,7 @@ An iOS application developed with Swift and SwiftUI, designed to assist users in
 	cd RecipesApp
 3. Open in Xcode:
 	```bash
-	open RecipesApp.git.xcodeproj
+	open RecipesApp.xcodeproj
 4. Build and Run:
 - Select a simulator or connect a physical device.
 - Click the 'Run' button in Xcode to build and launch the app.

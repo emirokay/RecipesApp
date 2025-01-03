@@ -1,9 +1,10 @@
 # RecipesApp
-
 An iOS application developed with Swift and SwiftUI, designed to assist users in preparing dishes effortlessly by providing a curated selection of recipes with comprehensive cooking instructions and ingredient details. Recipes are loaded from a `recipes.json` file bundled within the app, ensuring a smooth offline experience.
 
-## Features
+## Screen Recording
+https://github.com/user-attachments/assets/5498d03a-1210-49b0-8bf2-c8ffd49f6124
 
+## Features
 - **Browse Recipes**: Explore a curated selection of recipes across various categories.
 - **Detailed Instructions**: Access step-by-step cooking instructions for each recipe.
 - **Ingredient Lists with Strikeout**: View a comprehensive ingredient list and strike out items as you gather them.
